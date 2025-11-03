@@ -1,7 +1,7 @@
 Eray Dündar 220404932
 Uygulamayı Çalıştırmak İçin Gerekli Talimatlar
 
-[cite_start]Bu projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin[cite: 10]:
+Bu projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Projeyi klonlayın ve dizine gidin:**
     ```bash

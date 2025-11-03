@@ -1,6 +1,6 @@
 Eray Dündar 220404932
-Uygulamayı Çalıştırmak İçin Gerekli Talimatlar
 
+Uygulamayı Çalıştırmak İçin Gerekli Talimatlar
 Bu projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Projeyi klonlayın ve dizine gidin:**
